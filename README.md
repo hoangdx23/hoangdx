@@ -1,6 +1,6 @@
 ![image](https://github.com/hoangdx23/hoangdx/assets/130479732/c8afed19-6001-4efe-89c6-68d4d7dd4efd)<h1 align="center">Hi 👋, I'm hoangdx</h1>
 <h3 align="center">A passionate frontend developer from Vn</h3>
-<img  padding-right =10px  align= right width="200" src="[https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZxcnJjOHZ3NjBuaGUwNXo0aGNtNmRlZHI4eTV4OG51dDF2d2VtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif)">
+<img  padding-right =10px  align= right width="200" src="[https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif]a(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZxcnJjOHZ3NjBuaGUwNXo0aGNtNmRlZHI4eTV4OG51dDF2d2VtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif)">
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
